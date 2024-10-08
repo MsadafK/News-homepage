@@ -294,6 +294,7 @@ body.menu-open::before {
   .hero-section__content {
     grid-column: 2/3;
     align-self: flex-end;
+    margin-left: 2rem;
   }
   .hero-section__title {
     margin: 0;
