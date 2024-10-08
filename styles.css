@@ -77,8 +77,6 @@ body {
   right: 0;
   padding: 1rem;
   z-index: 2;
-  /* position: sticky; */
-  /* top: 0; */
 }
 body.menu-open::before {
   content: "";
@@ -114,7 +112,6 @@ body.menu-open::before {
 /* hero section */
 .hero-section {
   padding: 1rem;
-  border: 1px solid black;
   margin: 2rem 0;
 }
 .hero-section__image-desktop {
