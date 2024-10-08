@@ -56,13 +56,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border: 1px solid red;
   padding: 1rem;
 }
 .navbar__menu-icon-container {
   display: block;
   cursor: pointer;
-  border: 1px solid red;
 }
 .navbar__menu {
   display: none;
@@ -158,7 +156,6 @@ body.menu-open::before {
 }
 .whats-new-section__card {
   margin: 1.5rem 0;
-  border: 1px solid yellow;
 }
 .whats-new-section__card-title {
   color: var(--off_white);
@@ -176,11 +173,9 @@ body.menu-open::before {
 
 /* overview section */
 .overview-section {
-  border: 1px solid green;
   margin: 3rem 1rem;
 }
 .overview-section__card {
-  border: 1px solid red;
   display: flex;
   gap: 1rem;
   margin: 1rem 0 1.5rem;
